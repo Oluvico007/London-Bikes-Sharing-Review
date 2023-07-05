@@ -44,4 +44,6 @@ Weekdays experience higher bike usage compared to weekends, suggesting a signifi
 
 Certain areas within London show higher bike rental demand, indicating the presence of popular cycling routes or points of interest.
 
+![Alt Text](LondonBikes.png)
+
 For a detailed analysis and access to interactive visualizations, please refer to the [Tableau Public page]([link to Tableau visualizations](https://public.tableau.com/app/profile/victor.ogunyemi/viz/LondonBikesDashboard/Dashboard1)).
