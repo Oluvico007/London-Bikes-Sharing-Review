@@ -46,4 +46,4 @@ Certain areas within London show higher bike rental demand, indicating the prese
 
 ![Alt Text](LondonBikes.png)
 
-For a detailed analysis and access to interactive visualizations, please refer to the [Tableau Public page]([link to Tableau visualizations](https://public.tableau.com/app/profile/victor.ogunyemi/viz/LondonBikesDashboard/Dashboard1)).
+For a detailed analysis and access to interactive visualizations, please refer to the [[Tableau Dashboard](https://public.tableau.com/app/profile/victor.ogunyemi/viz/LondonBikesDashboard/Dashboard1)].
